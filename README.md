@@ -1,7 +1,7 @@
 # Discrete 5V / 100mA DC Power Supply (No ICs)
 
 ### Author: Md Rehan Raza  
-📌 [LinkedIn](https://linkedin.com/in/mdrehanraza) | [Email](mailto:khanrehan94407@gmail.com)
+📌 [LinkedIn](https://www.linkedin.com/in/md-rehan-raza-323763236/) | [Email](mailto:khanrehan94407@gmail.com)
 
 ---
 
